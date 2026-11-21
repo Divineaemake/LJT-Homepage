@@ -36,6 +36,11 @@ talkmap_link: false
 twitter:
   username: "junteng88716710"
 
+include:
+  - .htaccess
+  - _pages
+  - files
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
